@@ -1,9 +1,8 @@
 import React from "react";
-import Restro from "./Component/Restro";
-// import UseState from "./Component/Hooks/useState";
-// import UseState from "./Component/Hooks/UseEffect";
+
+import Temp from "./Component/Weather/Temp";
 const App = () => {
-  return <Restro />;
+  return <Temp />;
 };
 
 export default App;
